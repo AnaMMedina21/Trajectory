@@ -20,6 +20,6 @@ These are initiatives that members from the LSH community can lead, contribute t
 
 ##LSH Conference
 * I think it would be AWESOME to have an LSH conference at the end of the year
-* First things first, we need a viable location
+* First things first, we need a viable location.
 
 *Got other things to suggest? Make a pull request.*
